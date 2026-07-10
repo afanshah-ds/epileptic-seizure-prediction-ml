@@ -1,0 +1,4 @@
+Dataset,Samples,Features,Non-Seizure,Seizure,Class Split
+UCI-Epileptic (Real),11500,178,9200,2300,80.0% / 20.0%
+CHB-MIT Proxy (Real),4600,178,2300,2300,50.0% / 50.0%
+Kaggle-Frequency (Real),4600,32,2300,2300,50.0% / 50.0%
